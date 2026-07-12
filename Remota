@@ -1,0 +1,572 @@
+#EXTM3U 
+
+https://xtream-masters.com/epg/
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", FOX COSTA RICA
+http://190.235.207.217:8000/play/a191/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", FOX GUATEMALA
+http://190.235.207.217:8000/play/a190/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", DSPORTS OPC2
+http://190.235.207.217:8000/play/a13s/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", TELEMUNDO HD
+http://45.181.87.106:80/TELEMUNDOHD/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", DSPORTS 2
+http://167.17.67.240:8888/dsport2colombia/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", DSPORTS 2 OPC 2
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", DSPORTS +
+http://167.17.67.240:8888/Dsportsmas/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", DSPORTS + OPC2
+http://45.239.49.156:8000/play/a0jb/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", SKY SPORTS LA LIGA TEST
+http://186.33.1.71:8000/play/a03u/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", AZCORAZON X
+http://168.228.44.241:9998/play/a0cf/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", AZTECA 1 X
+http://168.228.44.241:9998/play/a0a8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", OLD MUSIC
+http://38.250.125.162:9800/play/046/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", KARAVANA TV
+http://38.250.125.162:9800/play/047/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", KARAVANA URBANO
+http://38.250.125.162:9800/play/048/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", KIZZY
+http://38.250.125.162:9800/play/051/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", MX SERIES
+http://38.250.125.162:9800/play/066/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", MX CLASSIC
+http://38.250.125.162:9800/play/077/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", LAS ESTRELLAS 
+http://38.250.125.162:9800/play/017/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", NOVELISIMA
+http://45.239.31.254:8000/play/a01h/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", KANAL D DRAMA
+http://38.250.125.162:9800/play/012/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", PASIONES
+http://38.250.125.162:9800/play/014/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", TL NOVELAS
+http://38.250.125.162:9800/play/015/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", LADIES
+http://38.250.125.162:9800/play/018/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", MX OLD
+http://38.250.125.162:9800/play/079/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", MX DRAMA
+http://38.250.125.162:9800/play/078/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", STINGRAY CONCERT
+http://38.250.125.162:9800/play/054/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", AZTECA 7 MX X
+http://168.228.44.241:9998/play/a0cx/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CANAL 5 MX X
+http://168.228.44.241:9998/play/a0cy/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", TVN HD
+http://38.250.125.162:9800/play/004/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CHV
+http://190.235.207.217:8000/play/a0i2/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CHV NOTICIAS 
+http://190.93.229.30:8000/play/a07k/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CANAL 13 HD
+http://38.250.125.162:9800/play/007/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CANAL 13 HD OPC2
+http://181.78.88.113:9800/play/a0b1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", T13 HD 
+http://38.7.223.20:8000/play/a0hz
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CANAL 24 HORAS
+http://38.250.125.162:9800/play/008/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN CHILE
+http://181.78.88.113:9800/play/a08s/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", BEIN SPORTS EXTRA
+http://45.189.62.33:8002/play/a0np/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", MEGA 
+http://38.250.125.162:9800/play/005/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", MEGA 2
+http://181.78.88.113:9800/play/a0ai/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN PREMIUM CHILE
+http://181.78.88.113:9800/play/a0bg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CANAL 5 X
+http://168.228.44.241:9998/play/a09i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CANAL DE LAS ESTRELLAS MX CDN
+http://168.228.44.241:9998/play/a07a/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CANAL DE LAS ESTRELLAS X 1
+http://168.228.44.241:9998/play/a096/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE CANAL X
+http://168.228.44.241:9998/play/a0ah/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE MAX X
+http://168.228.44.241:9998/play/a0bq/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE PLATINO X
+http://168.228.44.241:9998/play/a0aq/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINECANAL HD
+http://168.228.44.241:9998/play/a04u/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DEPORTES 1
+http://168.228.44.241:9998/play/a094/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DEPORTES 2 PLUS
+http://168.228.44.241:9998/play/a098/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Claro Sports 1 HD
+http://168.228.44.241:9998/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Claro Sports 2 HD
+http://168.228.44.241:9998/play/a0dx/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Claro Sports 3 HD
+http://168.228.44.241:9998/play/a035/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", DISC THEATHER HD
+http://168.228.44.241:9998/play/a04y/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", DISCOVERY KIDS X
+http://168.228.44.241:9998/play/a0c7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", DISTRITO COMEDIA X
+http://168.228.44.241:9998/play/a0a4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", DISTRITO COMEDIA X (clone)
+http://168.228.44.241:9998/play/a08s/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", DRAMA CATA
+http://168.228.44.241:9998/play/a075/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 2 MX
+http://168.228.44.241:9998/play/a04p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 2 HD MX
+http://179.63.189.198:8002/play/c017/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 3 MX
+http://168.228.44.241:9998/play/a03n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 3 HD MX
+http://179.63.189.198:8002/play/c018/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 4 MX
+http://168.228.44.241:9998/play/a03o/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", 020 - ESPN 4 HD mx
+http://179.63.189.198:8002/play/c020/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 5 MX
+http://168.228.44.241:9998/play/a05t/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 5  HD MX
+http://168.228.44.241:9998/play/a067/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6 MX
+http://168.228.44.241:9998/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6 HD MX
+http://168.228.44.241:9998/play/a06c/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN HD MX
+http://168.228.44.241:9998/play/a069/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN ARG 
+http://138.121.114.91:8000/play/a099/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN PREMIUM ARG
+http://138.121.114.91:8000/play/a086/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS ARG
+http://138.121.114.91:8000/play/a085/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS 3 ARG
+http://138.121.114.91:8000/play/a06y/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TYC SPORTS ARG
+http://138.121.114.91:8000/play/a06x/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS ARG
+http://138.121.114.91:8000/play/a06z/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS 2 ARG
+http://138.121.114.91:8000/play/a09b/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN CATA
+http://168.228.44.241:9998/play/a048/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN X
+http://168.228.44.241:9998/play/a0b0/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", SKY SPORTS LA LIGA
+http://201.190.41.246:8890/play/a02h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", Discovery Channel
+http://168.228.44.241:9998/play/a04k/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", Discovery Channel HD
+http://168.228.44.241:9998/play/a06g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", Discovery Home & Health
+http://168.228.44.241:9998/play/a05q/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", Discovery ID HD
+http://168.228.44.241:9998/play/a08t/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", Discovery Kids HD
+http://168.228.44.241:9998/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", HBO EXTREME X
+http://168.228.44.241:9998/play/a0ce/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", HBO FAMILY X
+http://168.228.44.241:9998/play/a0cb/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", HBO Family HD
+http://168.228.44.241:9998/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", HBO HD
+http://168.228.44.241:9998/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", HBO Plus HD
+http://168.228.44.241:9998/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", HBO XTREME
+http://168.228.44.241:9998/play/a01a/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", HBO2 HD
+http://168.228.44.241:9998/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", HBO2 X
+http://168.228.44.241:9998/play/a0ca/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", UNIVERSAL CINEMA ESTE HD
+http://168.228.44.241:9998/play/a06l/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", UNIVERSAL COMEDY HD
+http://168.228.44.241:9998/play/a058/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", UNIVERSAL CRIME HD
+http://168.228.44.241:9998/play/a057/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", UNIVERSAL PREMIERE HD
+http://168.228.44.241:9998/play/a054/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", UNIVERSAL PREMIERE O HD
+http://168.228.44.241:9998/play/a055/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", UNIVERSAL REALITY HD
+http://168.228.44.241:9998/play/a056/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", Tooncast
+http://168.228.44.241:9998/play/a04d/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", BABY FIRST
+http://181.118.153.151:8000/play/a03t/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", MAX ANIME
+http://201.190.41.246:8890/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TNT
+http://168.228.44.241:9998/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TNT HD
+http://168.228.44.241:9998/play/a04x/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TNT Novelas
+http://168.228.44.241:9998/play/a01w/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TNT Series
+http://168.228.44.241:9998/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TNT Series HD
+http://168.228.44.241:9998/play/a06f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", Discovery Science
+http://168.228.44.241:9998/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", Discovery Turbo
+http://168.228.44.241:9998/play/a05p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", Discovery World HD
+http://168.228.44.241:9998/play/a06h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", Disney
+http://168.228.44.241:9998/play/a05n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", Disney JR
+http://168.228.44.241:9998/play/a01o/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", CARTOON NETWORK X
+http://168.228.44.241:9998/play/a09p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", CARTOON NT HD
+http://168.228.44.241:9998/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", SKY SPORTS BUNDESLIGA X
+http://168.228.44.241:9998/play/a0bi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 008 - SEÑAL COLOMBIA
+http://179.63.189.198:8002/play/c008/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 003 - CARACOL HD
+http://38.196.178.254:8093/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 003 - CARACOL HD opc2
+http://181.78.14.26:4000/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 003 - CARACOL HD opc3
+http://38.196.178.253:8093/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 004 - CITY TV HD
+http://179.63.189.198:8002/play/c004/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 005 - CANAL UNO
+http://179.63.189.198:8002/play/c005/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 006 - CANAL INSTITUCIONAL
+http://179.63.189.198:8002/play/c006/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 001 - CANAL CAPITAL SD
+http://179.63.189.198:8002/play/c001/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 003 - CARACOL HD
+http://179.63.189.198:8002/play/c003/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 055 - FMH FAMILY
+http://179.63.189.198:8002/play/a08m/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 053 - FMH MOVIE
+http://179.63.189.198:8002/play/a0b8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 043 - FREE ACCION
+http://179.63.189.198:8002/play/c043/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 073 - FREE TV ESTELAR
+http://179.63.189.198:8002/play/a09l/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", 074 - FMH ATLAS
+http://179.63.189.198:8002/play/a08h/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 086 - RCN NOVELAS HD
+http://179.63.189.198:8002/play/z007/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 126 - FREE FAMILIAR
+http://179.63.189.198:8002/play/a08b/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", 127 - FREE TV SUREÑO
+http://179.63.189.198:8002/play/c127/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 135 - TRO
+http://179.63.189.198:8002/play/a08s/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 138 - FREE TV DRAMA
+http://179.63.189.198:8002/play/a08uW/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", 139 - PCG TV IVC
+http://179.63.189.198:8002/play/a08v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 140 - FMH ANIMATION
+http://179.63.189.198:8002/play/a08g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 140 - FMH KIDS
+http://38.250.125.162:9800/play/080/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 140 - FMH REWIND
+http://38.250.125.162:9800/play/087/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 145 - CARACOL HD 2 TDT
+http://179.63.189.198:8002/play/a08y/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 003 - CARACOL HD OPC4
+http://179.63.189.198:8002/play/c003/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 146 - CANAL TRECE + TDT
+http://179.63.189.198:8002/play/z008/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 147 - RCN TDT
+http://179.63.189.198:8002/play/a090W/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 147 - RCN OPC2
+http://209.14.118.1:8000/play/a0y0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 148 - RCN HD 2 TDT
+http://181.78.14.26:4000/play/a07m/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 149 - LA KALLE
+http://179.63.189.198:8002/play/a080/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 150 - CANAL TRECE TDT
+http://179.63.189.198:8002/play/c150/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=DEPORTES", Win
+http://190.60.41.107:8008/play/a0ot/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win opc2
+http://181.79.92.109:7778/play/a07g/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win opc3
+http://209.14.118.1:8000/play/a0z3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win Sports+ HD
+http://181.118.153.151:8000/play/a04l/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", Win Sports+ HD 
+http://157.100.9.51:8000/play/a1rr
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WIN SPORTS", Win Sports+ HD 
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WIN SPORTS", Win Sports+ HD OPC2
+http://209.14.118.7:8000/play/a0wr/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WIN SPORTS", Win Sports+ HD OPC3
+http://209.14.118.1:8000/play/a0wr/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WIN SPORTS", Win Sports 
+http://190.60.54.158:8000/play/a0b0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 131 - TELEPACIFICO
+http://179.63.189.198:8002/play/a08oX/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 132 - TELECARIBE
+http://179.63.189.198:8002/play/a08p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 133 - TELEANTIOQUIA
+http://179.63.189.198:8002/play/a08q/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 134 - TELECAFE
+http://179.63.189.198:8002/play/a08r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://marketingdesigne.com/wp-content/uploads/2023/03/Mk-Digital-Social-Premium-2301.png" group-title="DEPORTES",DSPORTS_HD
+http://38.226.210.46:8000/play/A008/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NUGOqdT.png" group-title="DEPORTES", Dsports FHD
+http://179.43.96.253:8000/play/a24w/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN COLOMBIA
+http://138.121.12.126:8000/play/a04d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN COLOMBIA opc2
+http://177.93.33.246:8100/play/a01o/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN COLOMBIA opc3
+http://181.79.92.109:7778/play/a02k/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 2 HD
+http://190.131.243.54:9000/play/a0ev/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 3 HD
+http://190.131.243.54:9000/play/a0i9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 4 HDx
+http://190.131.243.54:9000/play/a0he/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 5 HD
+http://190.131.243.54:9000/play/a0i3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6 HD
+http://190.131.243.54:9000/play/a0hy/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 7HD
+http://190.131.243.54:9000/play/a0dz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS PREMIUM OPC 3
+http://181.78.88.113:9800/play/a0bz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS PREMIUM 
+http://38.250.125.162:9800/play/110/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS 
+http://209.14.118.1:8000/play/a0wf/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS OPC 2
+http://38.250.125.162:9800/play/a0du/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://marketingdesigne.com/wp-content/uploads/2023/03/Mk-Digital-Social-Premium-2301.png" group-title="DEPORTES",TNT Sports Premiun HD OPC2
+http://38.226.210.46:8000/play/a05m/index.m3u8
