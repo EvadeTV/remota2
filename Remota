@@ -667,8 +667,3 @@ http://45.190.156.152:80/SPORTV/mpegts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", sport TV 2 br
 http://45.190.156.152:80/SPORTV_2/mpegts
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", sport TV 3 br
-http://45.190.156.152:80/SPORTV_3/mpegts
-
