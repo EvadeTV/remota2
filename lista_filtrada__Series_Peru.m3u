@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FillkaTV.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/26/23/177981261781/1666ae69c89b_480_270.png" group-title="Series - Peru",Fillka TV (1080p)
+https://amixtv.com/fillkatvhd/index.m3u8
+#EXTINF:-1 tvg-id="LatinaClasicos.pe" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Series - Peru",Latina Clasicos (1080p)
+http://45.171.108.253:8888/LATINA/index.m3u8
