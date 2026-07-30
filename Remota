@@ -650,7 +650,7 @@ http://190.235.207.217:8000/play/a0i4/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS 
-http://181.78.88.113:9800/play/a0b2/index.m3u8
+http://190.60.51.170:8000/play/a01c/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS OPC 2
 http://45.181.120.147:9800/play/121/index.m3u8
