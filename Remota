@@ -1,6 +1,4 @@
-#EXTM3U
-
-url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
+#EXTM3U url-tvg="http://172.30.0.2:8098/epg_chile.xml""
 
 
 refresh="3600" url-tvg="https://impeditor.com/epg/capanueve/capanueve,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,http://m3u4u.com/epg/3m97ypprzvh5e5x5ydxq,https://content-us.uplink.lat/epg/mex/,https://content-us.uplink.lat/epg/radios.xml,https://content-us.uplink.lat/epg/claro/index.php,https://edzeta.site/epg/mundo/,https://cl.edzeta.site/epg/movistar/,https://strm.edzeta.site/bpk-dgo/guia.xml"
