@@ -659,9 +659,9 @@ http://45.181.120.147:9800/play/121/index.m3u8
 http://181.78.88.113:9800/play/a0bz/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", sport TV br
-http://45.190.156.152:80/SPORTV/mpegts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Tigo sports
+http://45.180.114.10:8088/play/tigo1/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", sport TV 2 br
-http://45.190.156.152:80/SPORTV_2/mpegts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Tigo sports +
+http://45.180.114.10:8088/play/tigo2/index.m3u8
