@@ -672,3 +672,75 @@ http://45.180.114.10:8088/play/tigo1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Tigo sports +
 http://45.180.114.10:8088/play/tigo2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", Space HD
+http://179.99.131.223:8000/play/a08b/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", Studio Universal HD
+http://179.99.131.223:8000/play/a06o/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", TIMES | EXCLUSIVO CNBC
+http://179.99.131.223:8000/play/a0a5/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", TLC HD
+http://179.99.131.223:8000/play/a0aa/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", TNT Novelas HD
+http://179.99.131.223:8000/play/a088/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", TNT SØries HD
+http://179.99.131.223:8000/play/a08a/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", TV RÆ Tim Bum HD
+http://179.99.131.223:8000/play/a080/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", Telecine Action HD
+http://179.99.131.223:8000/play/a058/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", Telecine Cult HD
+http://179.99.131.223:8000/play/a05a/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", Telecine Fun HD
+http://179.99.131.223:8000/play/a059/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", Telecine Pipoca HD
+http://179.99.131.223:8000/play/a08g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", Telecine Premium HD
+http://179.99.131.223:8000/play/a08e/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", Telecine Touch HD
+http://179.99.131.223:8000/play/a08f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", Trace Brasil HD
+http://179.99.131.223:8000/play/a08l/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", Travel Food & Drinks HD
+http://179.99.131.223:8000/play/a07x/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", USA HD
+http://179.99.131.223:8000/play/a06k/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", Universal Premiere HD
+http://179.99.131.223:8000/play/a08m/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", Universal Reality HD
+http://179.99.131.223:8000/play/a08c/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", Universal TV HD
+http://179.99.131.223:8000/play/a0af/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", Warner Channel HD
+http://179.99.131.223:8000/play/a0am/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", Woohoo HD
+http://179.99.131.223:8000/play/a075/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", sportv HD
+http://179.99.131.223:8000/play/a05g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", sportv2 HD
+http://179.99.131.223:8000/play/a05f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", sportv3 HD
+http://179.99.131.223:8000/play/a06v/index.m3u8
