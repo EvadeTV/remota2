@@ -13,6 +13,9 @@ http://88.212.15.19/live/test_arenasport/playlist.m3u8
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", CBS SPORTS
+https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Eventos", Eventos 1
 http://186.33.7.209:8010/play/a074/index.m3u8
 
