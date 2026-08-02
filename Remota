@@ -218,6 +218,10 @@ http://181.78.67.171:8000/play/a0j7/index.m3u8
 http://45.239.31.254:8000/play/a01o/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN DEPORTES 
+http://40.160.24.58/ESPN_DEPORTES/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", BEIN SPORTS
 http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/488239.ts
 
