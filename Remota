@@ -4,6 +4,11 @@
 refresh="3600" url-tvg="https://impeditor.com/epg/capanueve/capanueve,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,http://m3u4u.com/epg/3m97ypprzvh5e5x5ydxq,https://content-us.uplink.lat/epg/mex/,https://content-us.uplink.lat/epg/radios.xml,https://content-us.uplink.lat/epg/claro/index.php,https://edzeta.site/epg/mundo/,https://cl.edzeta.site/epg/movistar/,https://strm.edzeta.site/bpk-dgo/guia.xml"
 
 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Eventos", Eventos 1
 http://186.33.7.209:8010/play/a074/index.m3u8
 
