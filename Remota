@@ -140,6 +140,9 @@ http://190.61.90.17:40000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", TELEMUNDO Puerto Rico
 http://179.0.104.255:8010/play/a04m/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", TELEMUNDO WEST
+https://messi.damitv.st/papi/ts/telemundo-usa/playlist.m3u8
+
 
 
 
