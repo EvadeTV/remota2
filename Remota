@@ -132,7 +132,7 @@ http://190.235.207.217:8000/play/a13s/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", TELEMUNDO HD
-http://45.181.87.106:80/TELEMUNDOHD/index.m3u8
+http://45.190.13.8/TelemundoHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", TELEMUNDO MIAMI
 http://190.61.90.17:40000/play/a00e/index.m3u8
