@@ -17,6 +17,10 @@ http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", FOX USA
+http://stream.cammonitorplus.net/1752/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", ESPN THE OCHO
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 
