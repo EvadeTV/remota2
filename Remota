@@ -70,7 +70,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1856629&exte
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Eventos", Eventos 2
-http://168.228.44.241:9999/play/a02g/index.m3u8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1856628&extension=ts&play_token=xRFhtpQ9aY
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Eventos", Eventos 3
