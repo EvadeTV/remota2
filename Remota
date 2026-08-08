@@ -183,6 +183,30 @@ http://45.181.120.147:9800/play/048/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", KIZZY
 http://181.78.67.171:8000/play/a11u/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI ACTION
+http://38.7.216.92:8000/play/a01h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI CINE
+http://38.7.216.92:8000/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI CONCERT ZPLAY
+http://38.7.216.92:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI HORIZONT
+http://38.7.216.92:8000/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI REWINDS
+http://38.7.216.92:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI ZKIDS
+http://38.7.216.92:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI ZTV
+http://38.7.216.92:8000/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI ZTV 2
+http://38.7.216.92:8000/play/a01g/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", MX SERIES
 http://45.181.120.147:9800/play/066/index.m3u8
 
