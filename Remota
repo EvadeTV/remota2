@@ -72,6 +72,10 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523608&exte
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports 1x2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523607&extension=ts&play_token=dfwaQWZgRA
 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", tv3 sports dk
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=2003567&extension=ts&play_token=0RtuRecu3q
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", TENNIS CHANNEL 
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1568618&extension=ts&play_token=GepgsgJ6cD
 
