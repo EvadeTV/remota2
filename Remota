@@ -272,6 +272,12 @@ http://181.78.67.171:8000/play/a11u/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", MI PELICULA
 http://45.173.203.73:12000/play/a07l/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", CINE FAMILIAR
+http://38.137.192.250:8004/play/23e42
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", CINE PREMIUM
+http://38.137.192.250:8004/play/a008
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI ACTION
 http://38.7.216.92:8000/play/a01h/index.m3u8
 
