@@ -8,6 +8,14 @@ refresh="3600" url-tvg="https://impeditor.com/epg/capanueve/capanueve,https://ra
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", DAZN F1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1677877&extension=ts&play_token=LIspQPv7M9
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", DAZN LA LIGA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1680770&extension=ts&play_token=aXn9M7TpUx
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports premium 
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523623&extension=ts&play_token=OsURcJkCdF
 
