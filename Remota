@@ -8,6 +8,12 @@ refresh="3600" url-tvg="https://impeditor.com/epg/capanueve/capanueve,https://ra
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", TENNIS CHANNEL 
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1568618&extension=ts&play_token=GepgsgJ6cD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", TENNIS CHANNEL 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1568617&extension=ts&play_token=7KiuVt2pFw
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports 2
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
