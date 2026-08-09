@@ -269,6 +269,9 @@ http://45.181.120.147:9800/play/048/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", KIZZY
 http://181.78.67.171:8000/play/a11u/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", MI PELICULA
+http://45.173.203.73:12000/play/a07l/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI ACTION
 http://38.7.216.92:8000/play/a01h/index.m3u8
 
@@ -860,6 +863,9 @@ http://190.60.51.170:8000/play/a01c/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS OPC 2
 http://181.78.192.238:8000/play/a1ti/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS OPC 3
+http://187.102.211.240:9001/play/a026/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://marketingdesigne.com/wp-content/uploads/2023/03/Mk-Digital-Social-Premium-2301.png" group-title="DEPORTES",TNT Sports Premiun HD OPC2
 http://181.78.88.113:9800/play/a0bz/index.m3u8
