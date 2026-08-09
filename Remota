@@ -339,6 +339,16 @@ http://168.228.44.241:9998/play/a0cx/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", CANAL 5 MX X
 http://168.228.44.241:9998/play/a0cy/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", MEGA TIEMPO
+http://45.225.204.26:8000/play/a006/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", MEGA FICCION
+http://45.225.204.26:8000/play/a08s/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", MEGA NOTICIAS
+http://45.225.204.26:8000/play/a005/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", TVN HD
 http://190.235.207.217:8000/play/a0i1/index.m3u8
 
