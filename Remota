@@ -8,6 +8,70 @@ refresh="3600" url-tvg="https://impeditor.com/epg/capanueve/capanueve,https://ra
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports premium 
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523623&extension=ts&play_token=OsURcJkCdF
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports premium 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523622&extension=ts&play_token=8rJaDk9L0Q
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports premium 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523621&extension=ts&play_token=UKelRqEqul
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports premium 4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523620&extension=ts&play_token=g2x3no4AF5
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports premium 5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523619&extension=ts&play_token=sTDYbTtzaG
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports tennis
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523618&extension=ts&play_token=RvkyVZ7ojI
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523617&extension=ts&play_token=TjZu70eM3i
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523616&extension=ts&play_token=bk1VISvbG1
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523615&extension=ts&play_token=7Uyqs3BBst
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports 4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523614&extension=ts&play_token=IMbCvQHMIH
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports 5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523613&extension=ts&play_token=BLsD6ZkYLy
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports 6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523612&extension=ts&play_token=MQFalqklvW
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports 7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523611&extension=ts&play_token=zjb9ot57dS
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports 8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523610&extension=ts&play_token=4qBJ584PcK
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports 9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523609&extension=ts&play_token=Um1xwdASM1
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports 10
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523608&extension=ts&play_token=7OGq1wsBTR
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports 1x2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1523607&extension=ts&play_token=dfwaQWZgRA
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", TENNIS CHANNEL 
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1568618&extension=ts&play_token=GepgsgJ6cD
 
