@@ -206,49 +206,25 @@ http://181.78.67.171:8000/play/a0yd/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", FOX COSTA RICA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX COSTA RICA
 http://190.235.207.217:8000/play/a191/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", FOX GUATEMALA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX GUATEMALA
 http://190.235.207.217:8000/play/a190/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", DSPORTS OPC2
-http://190.235.207.217:8000/play/a13s/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", TELEMUNDO HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", TELEMUNDO HD
 http://45.190.13.8/TelemundoHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", TELEMUNDO MIAMI
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", TELEMUNDO MIAMI
 http://190.61.90.17:40000/play/a00e/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", TELEMUNDO Puerto Rico
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", TELEMUNDO Puerto Rico
 http://179.0.104.255:8010/play/a04m/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", TELEMUNDO WEST
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", TELEMUNDO WEST
 https://messi.damitv.st/papi/ts/telemundo-usa/playlist.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", DSPORTS 2
-http://167.17.67.240:8888/dsport2colombia/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", DSPORTS 2 OPC 2
-http://181.64.27.65:8000/play/a0dq/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", DSPORTS +
-http://167.17.67.240:8888/Dsportsmas/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", DSPORTS + OPC2
-http://45.239.49.156:8000/play/a0jb/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", SKY SPORTS LA LIGA TEST
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", SKY SPORTS LA LIGA TEST
 http://186.33.1.71:8000/play/a03u/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", AZCORAZON X
