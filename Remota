@@ -640,7 +640,7 @@ http://45.239.31.254:8000/play/a00y/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", MAX ANIME
-http://190.61.90.17:40000/play/a02x/index.m3u8
+http://38.97.240.11:8000/play/a0nm/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TNT
 http://168.228.44.241:9998/play/a023/index.m3u8
