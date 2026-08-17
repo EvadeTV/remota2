@@ -295,6 +295,9 @@ http://8.243.70.51:8082/play/a04r/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", MI MUSICA POPULAR
 http://8.243.70.51:8082/play/a04t/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", MI MUSICA ROMANTICA
+http://45.189.151.7:8000/play/a079
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI ZTV
 http://206.135.56.218:8000/play/a036/index.m3u8
 
@@ -478,39 +481,38 @@ http://168.228.44.241:9998/play/a08s/index.m3u8
 http://168.228.44.241:9998/play/a075/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 2 MX
-http://168.228.44.241:9998/play/a04p/index.m3u8
+http://45.189.151.7:8000/play/a06j
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 2 HD MX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 2 HD 
 http://179.63.189.198:8002/play/c017/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 3 MX
 http://168.228.44.241:9998/play/a03n/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 3 HD MX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 3 HD 
 http://179.63.189.198:8002/play/c018/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 4 MX
 http://168.228.44.241:9998/play/a03o/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", 020 - ESPN 4 HD mx
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", 020 - ESPN 4 HD 
 http://179.63.189.198:8002/play/c020/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 5 MX
 http://168.228.44.241:9998/play/a05t/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 5  HD MX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 5  HD 
 http://168.228.44.241:9998/play/a067/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6 MX
 http://168.228.44.241:9998/play/a01z/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6 HD MX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 6 HD 
 http://168.228.44.241:9998/play/a06c/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN HD MX
-http://168.228.44.241:9998/play/a069/index.m3u8
-
+http://45.189.151.7:8000/play/a06i
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN LA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1680781&extension=ts&play_token=DkmLWbhvVB
@@ -524,6 +526,10 @@ http://149.107.251.5:5001/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS ARG
 http://190.235.207.217:8000/play/a18x/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS 2 ARG
+http://oscam281w.ooguy.com:5000/lucho/1234/Deportes/a0cj/index.m3u8?device_id=96528064f609
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS 3 ARG
 http://oscam281w.ooguy.com:5000/lucho/1234/Deportes/a0fa/index.m3u8?device_id=96528064f609
@@ -540,8 +546,13 @@ http://149.107.251.5:5001/play/a01b/index.m3u8
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=609659&extension=ts&play_token=YfFm9CtjsW
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS 2 ARG
-http://oscam281w.ooguy.com:5000/lucho/1234/Deportes/a0cj/index.m3u8?device_id=96528064f609
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS MX
+http://45.189.151.7:8000/play/a06m
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS 2 MX
+http://45.189.151.7:8000/play/a06n
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN CATA
 http://168.228.44.241:9998/play/a048/index.m3u8
