@@ -911,6 +911,54 @@ http://45.180.114.2:8088/play/tigo1/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Tigo sports +
 http://45.180.114.254:8088/play/tigo2/index.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL" SPORT TV
+http://189.14.238.86:9000/play/a00j/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL" SPORT TV 2
+http://189.14.238.86:9000/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL" SPORT TV 4K
+http://189.76.78.2:8000/play/5453445/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL" SPORT TV 3
+http://189.14.238.86:9000/play/a00l/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL" ESPN
+http://189.75.129.27:8000/play/a008
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL" ESPN 2
+http://189.75.129.27:8000/play/a009
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL" ESPN 3
+http://189.75.129.27:8000/play/a040
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL" ESPN 4
+http://189.75.129.27:8000/play/a03e
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL" ESPN 5
+http://189.75.129.27:8000/play/a03f
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL" ESPN 6
+http://189.75.129.27:8000/play/a00v
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL" BAND SPORT
+http://189.14.238.86:9000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL" CAZETV
+http://189.76.78.2:8000/play/5665444/index.m3u8 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL" COMBATE
+http://189.76.78.2:8000/play/65452/index.m3u8 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", TNT BRASIL
+http://189.14.238.86:9000/play/a012/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11367.jpg?ver=37776" group-title="8K| SPORT ON AIR ⁸ᴷ",ES: M+ DEPORTES 1 ᴴᴰ
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1577194&extension=ts&play_token=a9HQXqSnap
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14609.png?98646" group-title="8K| SPORT ON AIR ⁸ᴷ",ES: M+ DEPORTES 2 ᴴᴰ
