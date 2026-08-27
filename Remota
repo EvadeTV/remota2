@@ -927,8 +927,7 @@ http://189.14.238.86:9000/play/a00j/index.m3u8
 http://189.14.238.86:9000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", SPORT TV 4K
-http://189.76.78.2:8000/play/5453445/index.m3u8
-
+http://170.80.184.11:8000/play/a06f/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", SPORT TV 3
 http://189.14.238.86:9000/play/a00l/index.m3u8
@@ -960,10 +959,52 @@ http://189.14.238.86:9000/play/a00v/index.m3u8
 http://189.76.78.2:8000/play/5665444/index.m3u8 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", COMBATE
-http://189.76.78.2:8000/play/65452/index.m3u8 
+http://189.14.238.86:9000/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", PREMIERE 1
+http://189.14.238.86:9000/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", PREMIERE 2
+http://189.14.238.86:9000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", PREMIERE 3
+http://189.14.238.86:9000/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", PREMIERE 4
+http://189.14.238.86:9000/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", PREMIERE 5
+http://189.14.238.86:9000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", PREMIERE 6
+http://189.14.238.86:9000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", PREMIERE 1
+http://189.14.238.86:9000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", TNT BRASIL
 http://189.14.238.86:9000/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", PARAMOUNT 1
+http://189.75.129.27:8000/play/a02b
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", PARAMOUNT 2
+http://189.75.129.27:8000/play/a02c
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", PARAMOUNT 3
+http://189.75.129.27:8000/play/a02d
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", SPORTYNET
+http://189.75.129.27:8000/play/a00e
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", SPORTYNET +1
+http://189.75.129.27:8000/play/a041
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", SPORTYNET +2
+http://189.75.129.27:8000/play/a00h
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", MULTISHOW
+http://45.185.11.126:8000/play/a07a/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11367.jpg?ver=37776" group-title="8K| SPORT ON AIR ⁸ᴷ",ES: M+ DEPORTES 1 ᴴᴰ
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B6:C5:39&stream=1577194&extension=ts&play_token=a9HQXqSnap
