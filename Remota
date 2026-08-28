@@ -264,19 +264,19 @@ http://206.135.56.218:8000/play/a04b/index.m3u8
 http://38.7.216.92:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 055 - FMH FAMILY
-http://45.181.120.147:9800/play/080/index.m3u8
+http://181.78.21.171:8000/play/a09b/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 140 - FMH ANIMATION
 http://179.63.189.198:8002/play/a08g/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 140 - FMH KIDS
-http://45.181.120.147:9800/play/081/index.m3u8
+http://181.78.21.171:8000/play/a09a/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 140 - FMH REWIND
-http://45.181.120.147:9800/play/087/index.m3u8
+http://181.78.21.171:8000/play/a09e/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 053 - FMH MOVIE
-http://45.181.120.147:9800/play/082/index.m3u8
+http://181.78.21.171:8000/play/a098/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI CONCERT ZPLAY
 http://45.239.31.254:8000/play/a01n/index.m3u8
