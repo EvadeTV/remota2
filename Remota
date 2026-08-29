@@ -745,6 +745,9 @@ http://168.228.44.241:9998/play/a0aq/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINECANAL HD
 http://168.228.44.241:9998/play/a04u/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TNT MEXICO
+http://187.245.231.227:8000/play/a0oj/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", AMC SERIES
 http://45.191.100.217:9800/play/a0fe/index.m3u8
 
