@@ -36,6 +36,9 @@ http://201.186.41.99:8001/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", BIO BIO TV
 http://201.186.41.99:8001/play/a030/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", MEGA FICCION
+http://38.7.204.226:8002/play/a05n/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", TNT SPORTS PREMIUM
 http://179.63.6.217:9000/play/a0aa
