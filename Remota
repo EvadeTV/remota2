@@ -261,7 +261,7 @@ http://45.239.31.254:8000/play/a002/index.m3u8
 http://206.135.56.218:8000/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI CINE
-http://38.7.216.92:8000/play/a016/index.m3u8
+http://45.239.31.254:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 055 - FMH FAMILY
 http://181.78.21.171:8000/play/a09b/index.m3u8
