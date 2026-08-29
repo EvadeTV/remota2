@@ -87,6 +87,9 @@ http://38.187.2.174:9999/play/a0hg/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", FOX SPORTS 3
 http://38.187.2.174:9999/play/a0hh/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", WIN SPORTS +
+http://179.1.236.66:8002/play/a0fd/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", AVI
 http://181.79.92.47:18000/play/a001/index.m3u8
 
@@ -194,6 +197,9 @@ http://45.181.120.147:9800/play/048/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", LOS 80 Y 90
 http://190.95.11.223:8000/play/131/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", KOOL MUSIC
+http://191.97.49.82:8001/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ROMANTICO TV
 http://45.181.121.89:8885/play/a04q
