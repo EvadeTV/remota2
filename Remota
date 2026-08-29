@@ -257,6 +257,12 @@ http://38.137.192.250:8004/play/a008
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI ACTION
 http://45.239.31.254:8000/play/a002/index.m3u8
 
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI ACTION OPC 2
+http://45.239.31.254:8000/play/a009/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI MIC
 http://206.135.56.218:8000/play/a04b/index.m3u8
 
@@ -319,6 +325,18 @@ http://8.243.70.51:8082/play/a04t/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", MI MUSICA ROMANTICA
 http://45.189.151.7:8000/play/a079
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", EMTV
+http://190.95.11.223:8000/play/302/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", ROMANTICOTV
+http://190.95.11.223:8000/play/309/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SERIES 80 Y 90
+http://190.95.11.223:8000/play/310/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", RETROKIDS
+http://190.95.11.223:8000/play/308/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI ZTV
 http://206.135.56.218:8000/play/a036/index.m3u8
@@ -424,6 +442,8 @@ http://45.4.3.177:9999/play/a0fw
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CANAL 24 HORAS
 http://181.78.88.113:9800/play/a09o/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", TEVEX
+http://45.191.100.217:9800/play/a0as/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN CHILE
 http://45.181.120.147:9800/play/115/index.m3u8
