@@ -210,7 +210,7 @@ http://181.78.67.171:8000/play/a0yd/index.m3u8
 http://190.235.207.217:8000/play/a191/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX GUATEMALA
-http://190.235.207.217:8000/play/a190/index.m3u8
+http://45.186.106.207:8000/play/a09k/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUNDO", TELEMUNDO HD
 http://45.190.13.8/TelemundoHD/index.m3u8
@@ -586,7 +586,7 @@ http://168.228.44.241:9998/play/a0b0/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", SKY SPORTS LA LIGA
-http://201.190.41.246:8890/play/a02h/index.m3u8
+http://45.228.235.116:8000/play/a05s/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", Discovery Channel
 http://168.228.44.241:9998/play/a04k/index.m3u8
@@ -802,27 +802,20 @@ http://181.79.92.109:7778/play/a07g/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win opc3
-http://209.14.118.1:8000/play/a0z3/index.m3u8
+http://181.78.21.38:8000/play/a07l/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win Sports+ HD
 http://181.119.86.1:8000/play/a0d4
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TEST", Win Sports+ HD 
-http://157.100.9.51:8000/play/a1rr
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WIN SPORTS", Win Sports+ HD 
 http://181.78.8.199:8000/play/a0cc/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WIN SPORTS", Win Sports+ HD OPC2
-http://209.14.118.7:8000/play/a0wr/index.m3u8
-
+http://181.78.73.153:8000/play/a0eu/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WIN SPORTS", Win Sports+ HD OPC3
-http://209.14.118.1:8000/play/a0wr/index.m3u8
-
+http://181.78.82.130:8000/play/a0ds/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="WIN SPORTS", Win Sports 
 http://190.60.54.158:8000/play/a0b0/index.m3u8
