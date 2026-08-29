@@ -3,7 +3,219 @@
 
 https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/smithers/guia-de-programacion.xml?sincompresion"
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", CANAL 13
+http://209.61.83.92:9999/play/a0mu/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", T13
+http://45.191.100.217:9800/play/a0aj/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", CHV
+http://209.61.83.92:9999/play/a0qy/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", CHV NOTICIAS
+http://209.61.83.92:9999/play/a0t7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", MEGA
+http://209.61.83.92:9999/play/a0i5/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", MEGA 2
+http://209.61.83.92:9999/play/a0t9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", TVN
+http://209.61.83.92:9999/play/a0hw/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", CNN CHILE
+http://209.61.83.92:9999/play/a118/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", CANAL 24HRS
+http://209.61.83.92:9999/play/a0ns/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", TEVEX
+http://201.186.41.99:8001/play/a05z/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", BIO BIO TV
+http://201.186.41.99:8001/play/a030/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", TNT SPORTS PREMIUM
+http://179.63.6.217:9000/play/a0aa
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", TNT SPORTS 
+http://181.78.73.153:8000/play/a0e0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DSPORTS
+http://181.67.221.217:8000/play/a0kv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DSPORTS 2
+http://181.67.221.217:8000/play/a0kw/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DSPORTS +
+http://181.67.221.217:8000/play/a0kx/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN
+http://209.61.83.92:9999/play/a0wv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN 2
+http://209.61.83.92:9999/play/a0md/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN 3
+http://209.61.83.92:9999/play/a0n1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN 4
+http://209.61.83.92:9999/play/a0ms/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN 5
+http://209.61.83.92:9999/play/a0mw/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN 6
+http://209.61.83.92:9999/play/a0gr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN 7
+http://209.61.83.92:9999/play/a0hj/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN PREMIUM
+http://38.187.2.174:9999/play/a0ef/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", FOX SPORTS
+http://38.187.2.174:9999/play/a0hf/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", FOX SPORTS 2
+http://38.187.2.174:9999/play/a0hg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", FOX SPORTS 3
+http://38.187.2.174:9999/play/a0hh/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", AVI
+http://181.79.92.47:18000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", HBO FAMILY
+http://209.61.83.92:9999/play/a0md/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", HBO
+http://209.61.83.92:9999/play/a0p1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", HBO MUNDI
+http://209.61.83.92:9999/play/a0xs/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", HBO POP
+http://209.61.83.92:9999/play/a0pc/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", HBO PLUS
+http://209.61.83.92:9999/play/a0wp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", HBO SIGNATURE
+http://209.61.83.92:9999/play/a0xr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", HBO XTREME
+http://209.61.83.92:9999/play/a0n3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", FMH FAMILY
+http://181.79.92.47:18000/play/fmh/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", FMH MOVIES
+http://181.79.92.47:18000/play/a02x/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", FMH REWIND
+http://181.79.92.47:18000/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", FMH KIDS
+http://181.79.92.47:18000/play/a02p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", UNIVERSAL CINEMA
+http://38.187.2.174:9999/play/a0hh/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", UNIVERSAL COMEDY
+http://45.185.162.124:8000/play/a09h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", UNIVERSAL CRIME
+http://45.185.162.124:8000/play/a09g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", UNIVERSAL PREMIERE
+http://45.185.162.124:8000/play/a09d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", UNIVERSAL REALITY
+http://45.185.162.124:8000/play/a09f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DISCOVERY CHANNEL
+http://45.160.12.200:8008/play/024
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DISCOVERY WORLD
+http://45.160.12.200:8008/play/036
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DISCOVERY THEATER
+http://45.160.12.200:8008/play/036
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DISCOVERY TURBO
+http://45.160.12.200:8008/play/207
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DISCOVERY H&H
+http://181.78.88.113:9800/play/a0eo/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DISCOVERY SCIENCE
+http://201.186.41.99:8001/play/a07z/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", HISTORY
+http://170.247.204.9:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ATLAS
+http://201.186.41.99:8001/play/a06k/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", GOKUTV
+http://45.181.121.89:8885/play/a011
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DISCOVERY KIDS
+http://45.181.120.147:9800/play/037/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", OLD MUSIC
+http://45.181.120.147:9800/play/046/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", KARAVANA TV
+http://45.181.120.147:9800/play/047/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", KARAVANA URBANO
+http://45.181.120.147:9800/play/048/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", LOS 80 Y 90
+http://190.95.11.223:8000/play/131/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ROMANTICO TV
+http://45.181.121.89:8885/play/a04q
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", EMTV
+http://190.95.11.223:8000/play/302/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", NINATV
+http://45.160.12.200:8008/play/133
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ZOOM BACK
+http://45.181.120.147:9800/play/052/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", TELEHIT
+http://186.148.175.138:8000/play/a091
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", KIZZY
+http://181.79.92.47:18000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", MI MUSICA HIST
+http://8.243.70.51:8082/play/a04r/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", MI MUSICA POPULAR
+http://8.243.70.51:8082/play/a04t/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", MI MUSICA REGGAETON
+http://179.63.189.198:8002/play/a0ez/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", MI MUSICA SALSA
+http://179.63.189.198:8002/play/a09t/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", MI MUSICA ROMANTICA
+http://179.63.189.198:8002/play/a09uW/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", MIX MUSIC
+http://181.79.92.47:18000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", KPOP
+http://190.95.11.223:8000/play/139/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
@@ -257,9 +469,6 @@ http://45.163.204.6:8000/play/a049/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI ACTION
 http://45.239.31.254:8000/play/a002/index.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI ACTION OPC 2
 http://45.239.31.254:8000/play/a009/index.m3u8
 
@@ -299,6 +508,9 @@ http://45.239.31.254:8000/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI REWINDS OPC2
 http://206.135.56.218:8000/play/a04d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", CLASSIC
+http://179.63.6.212:9000/play/a05u
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", AVI ZKIDS
 http://45.239.31.254:8000/play/a003/index.m3u8
@@ -367,8 +579,7 @@ http://190.95.11.223:8000/play/121/index.m3u8
 http://190.95.11.223:8000/play/122/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", GOKU TV
-http://45.4.3.177:9999/play/a0gg
-
+http://190.238.171.177:8000/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", LAS ESTRELLAS 
 http://45.181.120.147:9800/play/017/index.m3u8
@@ -467,7 +678,7 @@ http://38.52.200.209:8000/play/a07n/index.m3u8
 http://181.78.88.113:9800/play/a09o/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", TEVEX
-http://45.191.100.217:9800/play/a0as/index.m3u8
+http://45.239.31.254:8000/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN CHILE
 http://45.181.120.147:9800/play/115/index.m3u8
