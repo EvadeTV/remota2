@@ -4,7 +4,7 @@
 https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/smithers/guia-de-programacion.xml?sincompresion"
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", CANAL 13
-http://209.61.83.92:9999/play/a0mu/index.m3u8
+http://45.181.120.147:9800/play/007/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", T13
 http://45.191.100.217:9800/play/a0aj/index.m3u8
