@@ -39,7 +39,6 @@ http://201.186.41.99:8001/play/a030/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", MEGA FICCION
 http://38.7.204.226:8002/play/a05n/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", TNT SPORTS PREMIUM
 http://179.63.6.217:9000/play/a0aa
 
@@ -90,6 +89,15 @@ http://38.187.2.174:9999/play/a0hh/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", AVI
 http://181.79.92.47:18000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", AVI OPC2
+http://45.172.92.111:8000/play/a039/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", AVI
+http://45.172.92.111:8000/play/a03a/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", AVI
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", HBO FAMILY
 http://209.61.83.92:9999/play/a0md/index.m3u8
@@ -168,6 +176,12 @@ http://45.181.121.89:8885/play/a011
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DISCOVERY KIDS
 http://45.181.120.147:9800/play/037/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ZTV
+http://45.172.92.111:8000/play/a036/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ZKIDS
+http://45.172.92.111:8000/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", OLD MUSIC
 http://45.181.120.147:9800/play/046/index.m3u8
