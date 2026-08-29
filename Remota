@@ -99,6 +99,10 @@ http://179.1.236.66:8002/play/a0fd/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", AVI
 http://181.79.92.47:18000/play/a001/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", AVI ACTION
+http://45.239.31.254:8000/play/a009/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", AVI OPC2
 http://45.172.92.111:8000/play/a039/index.m3u8
 
