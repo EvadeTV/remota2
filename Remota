@@ -36,6 +36,12 @@ http://201.186.41.99:8001/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", BIO BIO TV
 http://201.186.41.99:8001/play/a030/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", LA METRO
+https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/metropolitanatv/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", AGRICULTURA TV
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", MEGA FICCION
 http://38.7.204.226:8002/play/a05n/index.m3u8
 
@@ -96,11 +102,11 @@ http://181.79.92.47:18000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", AVI OPC2
 http://45.172.92.111:8000/play/a039/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", AVI
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS",  REWIND
 http://45.172.92.111:8000/play/a03a/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", AVI
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", AURORAFLIVE
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", HBO FAMILY
 http://209.61.83.92:9999/play/a0md/index.m3u8
