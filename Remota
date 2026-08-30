@@ -4,7 +4,7 @@
 https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/smithers/guia-de-programacion.xml?sincompresion"
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", CANAL 13
-http://45.181.120.147:9800/play/007/index.m3u8
+http://45.162.193.35:80/CANAL13_HD/mpegts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", T13
 http://45.191.100.217:9800/play/a0aj/index.m3u8
@@ -22,7 +22,7 @@ http://209.61.83.92:9999/play/a0i5/index.m3u8
 http://209.61.83.92:9999/play/a0t9/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", TVN
-http://209.61.83.92:9999/play/a0hw/index.m3u8
+http://45.162.193.35:80/TVN/mpegts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", CNN CHILE
 http://209.61.83.92:9999/play/a118/index.m3u8
