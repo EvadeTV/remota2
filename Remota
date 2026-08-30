@@ -45,6 +45,9 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", MEGA FICCION
 http://38.7.204.226:8002/play/a05n/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", TELEMUNDO 51
+http://168.228.44.241:9999/play/a02g/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", TNT SPORTS PREMIUM
 http://179.63.6.217:9000/play/a0aa
 
