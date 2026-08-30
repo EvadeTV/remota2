@@ -124,6 +124,11 @@ http://179.1.236.66:8002/play/a0fd/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", AVI
 http://181.79.92.47:18000/play/a001/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", +CINE
+http://38.156.13.106:8888/play/a08e/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", +CINE FAMILY
+http://38.156.13.106:8888/play/a08f/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", AVI ACTION
 http://45.239.31.254:8000/play/a009/index.m3u8
@@ -221,8 +226,17 @@ http://45.172.92.111:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ZKIDS
 http://45.172.92.111:8000/play/a031/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", AVI KIDS
+http://200.7.99.59:8000/play/a0d5/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", OLD MUSIC
 http://45.181.120.147:9800/play/046/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", V-CLASSIC TV
+http://201.218.140.30:9000/play/a03k
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", VISION MUSICA
+http://201.218.140.30:9000/play/a0cp
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", KARAVANA TV
 http://45.181.120.147:9800/play/047/index.m3u8
@@ -235,6 +249,9 @@ http://190.95.11.223:8000/play/131/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", KOOL MUSIC
 http://191.97.49.82:8001/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", MUSIC TOP
+http://190.60.53.132:8000/play/DC001/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ROMANTICO TV
 http://45.181.121.89:8885/play/a04q
@@ -616,6 +633,9 @@ http://190.95.11.223:8000/play/309/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SERIES 80 Y 90
 http://190.95.11.223:8000/play/310/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", RETRO SERIES
+http://201.218.140.30:9000/play/a01f
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", RETROKIDS
 http://190.95.11.223:8000/play/308/index.m3u8
