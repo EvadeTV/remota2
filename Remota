@@ -63,20 +63,39 @@ http://181.67.221.217:8000/play/a0kx/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN
 http://209.61.83.92:9999/play/a0wv/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN MEXICO
+http://181.119.108.43:9001/play/a06o/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN 2
 http://209.61.83.92:9999/play/a0md/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN 2 MEXICO
+http://181.119.108.43:9001/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN 3
 http://209.61.83.92:9999/play/a0n1/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN 3 MEXICO
+http://181.119.108.43:9001/play/a06q/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN 4
 http://209.61.83.92:9999/play/a0ms/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN 4 MEXICO
+http://181.119.108.43:9001/play/a0k8/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN 5
 http://209.61.83.92:9999/play/a0mw/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN 5 MEXICO
+http://181.119.108.43:9001/play/a00z/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN 6
 http://209.61.83.92:9999/play/a0gr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN 6 MEXICO
+http://181.119.108.43:9001/play/a0lg/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN 7
 http://209.61.83.92:9999/play/a0hj/index.m3u8
