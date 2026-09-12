@@ -61,7 +61,7 @@ http://186.148.196.82:8001/play/a0d5
 http://186.148.196.82:8001/play/a0d3
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DSPORTS +
-http://181.67.221.217:8000/play/a0kx/index.m3u8
+http://181.205.205.170:8001/play/a0x4/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN
 http://209.61.83.92:9999/play/a0wv/index.m3u8
@@ -117,18 +117,6 @@ http://38.187.2.174:9999/play/a0hh/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", TNT SPORTS ARG
 http://200.59.213.66:8000/play/a021/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN COLOMBIA
-http://200.122.232.149:8000/play/a032/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", WIN SPORTS +
-http://179.1.236.66:8002/play/a0fd/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", WIN SPORTS +
-http://181.78.74.146:18000/play/a03g
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", WIN SPORTS +
-http://179.1.139.53:18000/play/a0bq
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", CREO SPORTS
 http://191.97.15.177:7788/play/a00s
@@ -1102,6 +1090,18 @@ http://179.63.189.198:8002/play/c001/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", 003 - CARACOL HD
 http://179.63.189.198:8002/play/c003/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", ESPN COLOMBIA
+http://200.122.232.149:8000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", WIN SPORTS +
+http://179.1.236.66:8002/play/a0fd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", WIN SPORTS +
+http://181.78.74.146:18000/play/a03g
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLOMBIA", WIN SPORTS +
+http://179.1.139.53:18000/play/a0bq
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM", 043 - FREE ACCION
 http://179.63.189.198:8002/play/c043/index.m3u8
