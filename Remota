@@ -673,7 +673,7 @@ http://190.95.11.223:8000/play/122/index.m3u8
 http://190.238.171.177:8000/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", LAS ESTRELLAS 
-http://45.181.120.147:9800/play/017/index.m3u8
+http://38.65.175.86:8000/play/a0o0/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOVELAS", NOVELISIMA
 http://45.239.31.254:8000/play/a01h/index.m3u8
