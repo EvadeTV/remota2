@@ -55,10 +55,10 @@ http://179.63.6.217:9000/play/a0aa
 http://181.78.73.153:8000/play/a0e0/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DSPORTS
-http://181.67.221.217:8000/play/a0kv/index.m3u8
+http://186.148.196.82:8001/play/a0d5
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DSPORTS 2
-http://181.67.221.217:8000/play/a0kw/index.m3u8
+http://186.148.196.82:8001/play/a0d3
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DSPORTS +
 http://181.67.221.217:8000/play/a0kx/index.m3u8
@@ -116,7 +116,10 @@ http://38.187.2.174:9999/play/a0hg/index.m3u8
 http://38.187.2.174:9999/play/a0hh/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", TNT SPORTS ARG
-http://138.121.113.175:8000/play/a05k/index.m3u8
+http://200.59.213.66:8000/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ESPN COLOMBIA
+http://200.122.232.149:8000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", WIN SPORTS +
 http://179.1.236.66:8002/play/a0fd/index.m3u8
