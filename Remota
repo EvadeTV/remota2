@@ -43,7 +43,7 @@ https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/931b584451fa6dd1313ee66
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", MEGA FICCION
-http://38.7.204.226:8002/play/a05n/index.m3u8
+http://170.79.235.142:8002/play/a05n/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", TELEMUNDO 51
 http://168.228.44.241:9999/play/a02g/index.m3u8
@@ -301,6 +301,9 @@ http://181.79.92.47:18000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", KPOP
 http://190.95.11.223:8000/play/139/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", TOTAL CONCERT
+http://167.249.29.111:8000/play/a06m/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Arena sports
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
