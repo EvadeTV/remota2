@@ -153,7 +153,7 @@ http://45.172.92.111:8000/play/a03a/index.m3u8
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", HBO FAMILY
-http://209.61.83.92:9999/play/a0md/index.m3u8
+http://45.181.120.147:9800/play/091/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", HBO
 http://209.61.83.92:9999/play/a0p1/index.m3u8
@@ -174,16 +174,16 @@ http://209.61.83.92:9999/play/a0xr/index.m3u8
 http://209.61.83.92:9999/play/a0n3/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", FMH FAMILY
-http://181.79.92.47:18000/play/fmh/index.m3u8
+http://45.181.120.147:9800/play/080/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", FMH MOVIES
-http://181.79.92.47:18000/play/a02x/index.m3u8
+http://45.181.120.147:9800/play/082/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", FMH REWIND
-http://181.79.92.47:18000/play/a01n/index.m3u8
+http://45.181.120.147:9800/play/087/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", FMH KIDS
-http://181.79.92.47:18000/play/a02p/index.m3u8
+http://45.181.120.147:9800/play/081/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", CREO MOVIES
 http://191.97.15.177:7788/play/a015
@@ -210,16 +210,16 @@ http://45.185.162.124:8000/play/a09d/index.m3u8
 http://45.185.162.124:8000/play/a09f/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DISCOVERY CHANNEL
-http://45.160.12.200:8008/play/024
+http://45.181.120.147:9800/play/098/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DISCOVERY WORLD
-http://45.160.12.200:8008/play/036
+http://45.181.120.147:9800/play/100/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DISCOVERY THEATER
-http://45.160.12.200:8008/play/036
+http://45.181.120.147:9800/play/099/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DISCOVERY TURBO
-http://45.160.12.200:8008/play/207
+http://45.181.120.147:9800/play/106/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", DISCOVERY H&H
 http://181.78.88.113:9800/play/a0eo/index.m3u8
@@ -279,7 +279,7 @@ http://45.181.121.89:8885/play/a04q
 http://190.95.11.223:8000/play/302/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", NINATV
-http://45.160.12.200:8008/play/133
+http://190.95.11.223:8000/play/136/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", ZOOM BACK
 http://45.181.120.147:9800/play/052/index.m3u8
@@ -288,7 +288,7 @@ http://45.181.120.147:9800/play/052/index.m3u8
 http://186.148.175.138:8000/play/a091
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", KIZZY
-http://181.79.92.47:18000/play/a008/index.m3u8
+http://45.181.120.147:9800/play/051/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVOS", MI MUSICA HIST
 http://8.243.70.51:8082/play/a04r/index.m3u8
